@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<productos>
+	<producto>
+		<nombre>Uva</nombre>
+		<precio>2</precio>
+		<stock>32</stock>
+		<descripcion>Es morada</descripcion>
+	</producto>
+	<producto>
+		<nombre>Pera</nombre>
+		<precio>3</precio>
+		<stock>23</stock>
+		<descripcion>Fresca</descripcion>
+	</producto>
+	<producto>
+		<nombre>Manzana</nombre>
+		<precio>2</precio>
+		<stock>34</stock>
+		<descripcion>Es verde</descripcion>
+	</producto>
+</productos>

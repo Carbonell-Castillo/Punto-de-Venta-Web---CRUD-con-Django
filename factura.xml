@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<facturas>
+	<factura>
+		<numero>1</numero>
+		<cliente>
+			<nit>321</nit>
+			<nombre>Abigail</nombre>
+			<direccion>zona 21</direccion>
+		</cliente>
+		<productos>
+			<producto>
+				<nombre>Uva</nombre>
+				<precio>2</precio>
+				<stock>32</stock>
+				<descripcion>Es morada</descripcion>
+			</producto>
+			<producto>
+				<nombre>Manzana</nombre>
+				<precio>2</precio>
+				<stock>34</stock>
+				<descripcion>Es verde</descripcion>
+			</producto>
+		</productos>
+	</factura>
+	<factura>
+		<numero>2</numero>
+		<cliente>
+			<nit>321</nit>
+			<nombre>Abigail</nombre>
+			<direccion>zona 21</direccion>
+		</cliente>
+		<productos>
+			<producto>
+				<nombre>Uva</nombre>
+				<precio>2</precio>
+				<stock>32</stock>
+				<descripcion>Es morada</descripcion>
+			</producto>
+			<producto>
+				<nombre>Pera</nombre>
+				<precio>3</precio>
+				<stock>23</stock>
+				<descripcion>Fresca</descripcion>
+			</producto>
+			<producto>
+				<nombre>Manzana</nombre>
+				<precio>2</precio>
+				<stock>34</stock>
+				<descripcion>Es verde</descripcion>
+			</producto>
+		</productos>
+	</factura>
+</facturas>

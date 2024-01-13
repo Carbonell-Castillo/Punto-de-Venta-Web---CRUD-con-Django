@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+	<item>
+		<nit>321</nit>
+		<nombre>Abigail</nombre>
+		<direccion>zona 21</direccion>
+	</item>
+	<item>
+		<nit>123</nit>
+		<nombre>BRUCE</nombre>
+		<direccion>zona 12</direccion>
+	</item>
+</data>
